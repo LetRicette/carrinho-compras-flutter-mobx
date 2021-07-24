@@ -1,16 +1,16 @@
-# carrinho_de_compras
+### Assingmment - Level Up ###
+#Raro Academy#
 
-A new Flutter project.
+![image](https://user-images.githubusercontent.com/74558321/126875482-7493c068-8540-4849-8758-b57fbbe7abc9.png)
+![image](https://user-images.githubusercontent.com/74558321/126875488-c0bc434f-cdc4-4577-9483-e250fc05334c.png)
+![image](https://user-images.githubusercontent.com/74558321/126875508-40f08098-1704-4f86-8aee-c624149c17a3.png)
 
-## Getting Started
+ App possui as seguintes telas e funcionalidades :
+- Listagem de produtos
+- Carrinho de compras
+- Adicionar itens ao carrinho
+- Atualizar o componente de contador de itens do carrinho sem atualizar a tela completa
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Aplicação no emulador android- Pixel 2.
